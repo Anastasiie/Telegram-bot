@@ -1,7 +1,7 @@
 import webbrowser
 import telebot
 
-bot = telebot.TeleBot('7325085670:AAG5c4qHl1EXjM-c6hb5xYCePQsciQ6ltgc')
+bot = telebot.TeleBot('toki_doki_botti_here')
 GROUP_CHAT_ID = -1002228900181
 user_messages = {}
 
