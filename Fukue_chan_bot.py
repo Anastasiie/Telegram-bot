@@ -3,7 +3,7 @@ import random
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 import time
 
-API_TOKEN = 'here_token'
+API_TOKEN = 'toki_doki_botti_here'
 
 bot = telebot.TeleBot(API_TOKEN)
 
